@@ -1,5 +1,8 @@
 # ORAS Tools
 
+![Main Branch Build Workflow Badge](https://github.com/johnsonshi/oras-tools/actions/workflows/build.yml/badge.svg)
+![Latest Release Workflow Badge](https://github.com/johnsonshi/oras-tools/actions/workflows/release.yml/badge.svg)
+
 Helper tools for [ORAS](https://oras.land).
 
 ## Quick Start
